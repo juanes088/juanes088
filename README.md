@@ -49,15 +49,6 @@ de IA, y últimamente me la paso experimentando con asistentes, agentes y visió
 
 ---
 
-### 📊 Un vistazo a mi GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=juanes088&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes088&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
----
-
 ### 📫 Dónde encontrarme
 
 <p align="center">
