@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1400&color=58A6FF&center=true&vCenter=true&width=820&lines=Analista+de+Automatizaci%C3%B3n+e+Inteligencia+Artificial;Automatizaci%C3%B3n%2C+agentes+de+IA+y+soluciones+conectadas;Estudiante+activo+de+Ingenier%C3%ADa+de+Software" alt="Analista de Automatización e Inteligencia Artificial" />
 </p>
 
+<p align="center"><strong><font color="#58A6FF">Automatización · IA generativa · Agentes · Datos · Integraciones</font></strong></p>
+
 <p align="center">
   Diseño soluciones que combinan inteligencia artificial, automatización, datos e integraciones para transformar procesos manuales en flujos más eficientes, escalables y útiles.
 </p>
