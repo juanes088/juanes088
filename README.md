@@ -70,12 +70,12 @@
 <h2 align="center" id="ia-generativa-y-agentes">✨ IA generativa y agentes</h2>
 
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" title="LangGraph" />
+  <img height="50" src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.simpleicons.org/langgraph/FFFFFF" alt="LangGraph" title="LangGraph" />
 </p>
 
 <p align="center"><sub>ChatGPT · OpenAI API · Claude · Claude Code · Claude API · Gemini API · Microsoft Copilot · Copilot Studio · LangChain · LangGraph · MCP</sub></p>
