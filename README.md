@@ -64,9 +64,9 @@
 
 <p align="center">
   <img height="50" src="./assets/openai-gray.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./assets/codex-gray.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/claudecode/6B7280" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/claude-code.svg" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://msicons.com/icons/Copilot-studio/CopilotStudio_scalable.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
