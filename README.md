@@ -15,20 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:juaneste546@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://github.com/juanes088"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  ¿Quieres que colaboremos en algo? &nbsp;
+  <a href="mailto:juaneste546@gmail.com"><img height="28" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Escríbeme por correo" />&nbsp;Escríbeme</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/juan-esteban-sierra-agudelo-029a9b242/"><img height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="Conectemos en LinkedIn" />&nbsp;Conectemos</a>
 </p>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>🔎 Analizo</strong><br/><sub>Procesos, necesidades y oportunidades</sub></td>
-    <td align="center" width="25%"><strong>🧠 Diseño</strong><br/><sub>Flujos, agentes y soluciones de IA</sub></td>
-    <td align="center" width="25%"><strong>🛠️ Construyo</strong><br/><sub>Prototipos, APIs e integraciones</sub></td>
-    <td align="center" width="25%"><strong>🚀 Despliego</strong><br/><sub>Contenedores, VPS y CI/CD</sub></td>
-  </tr>
-</table>
 
 <br/>
 
@@ -43,10 +34,10 @@
 </p>
 
 <br/>
-<hr/>
-<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
 
-<h2 align="center" id="automatización-e-integraciones">⚙️ Automatización e integraciones</h2>
+<h2 align="center" id="automatización-e-integraciones">Automatización e integraciones</h2>
 
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />&nbsp;&nbsp;&nbsp;
@@ -63,11 +54,14 @@
   Diseño flujos de automatización que conectan CRM, correo, formularios, bases de datos y hojas de cálculo. Trabajo con APIs REST, webhooks y RPA para reducir tareas manuales y mejorar la trazabilidad de los procesos.
 </p>
 
-<br/>
-<hr/>
-<br/>
+  </td></tr>
+</table>
 
-<h2 align="center" id="ia-generativa-y-agentes">✨ IA generativa y agentes</h2>
+<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
+
+<h2 align="center" id="ia-generativa-y-agentes">IA generativa y agentes</h2>
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
@@ -84,11 +78,14 @@
   Construyo asistentes y agentes de IA que interpretan lenguaje natural, consultan bases de conocimiento y ejecutan acciones mediante herramientas. Aplico prompt engineering, function calling, RAG, evaluación de respuestas y guardrails.
 </p>
 
-<br/>
-<hr/>
-<br/>
+  </td></tr>
+</table>
 
-<h2 align="center" id="machine-learning-visión-y-voz">🧪 Machine learning, visión y voz</h2>
+<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
+
+<h2 align="center" id="machine-learning-visión-y-voz">Machine learning, visión y voz</h2>
 
 <p align="center">
   <img height="45" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" />&nbsp;&nbsp;
@@ -110,11 +107,14 @@
   Desarrollo prototipos de IA aplicada para visión por computador, lenguaje, voz y análisis de datos. Trabajo con clasificación, regresión, clustering, procesamiento de lenguaje natural y reconocimiento o síntesis de voz.
 </p>
 
-<br/>
-<hr/>
-<br/>
+  </td></tr>
+</table>
 
-<h2 align="center" id="datos-y-analítica">📊 Datos y analítica</h2>
+<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
+
+<h2 align="center" id="datos-y-analítica">Datos y analítica</h2>
 
 <p align="center">
   <img height="46" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
@@ -130,11 +130,14 @@
   Transformo datos en información útil para automatizaciones, modelos de IA y toma de decisiones. Trabajo con ETL/ELT, limpieza y transformación de datos, data pipelines, dashboards, KPIs, visualización y Big Data.
 </p>
 
-<br/>
-<hr/>
-<br/>
+  </td></tr>
+</table>
 
-<h2 align="center" id="desarrollo-despliegue-e-infraestructura">💻 Desarrollo, despliegue e infraestructura</h2>
+<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
+
+<h2 align="center" id="desarrollo-despliegue-e-infraestructura">Desarrollo, despliegue e infraestructura</h2>
 
 <p align="center">
   <img height="42" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
@@ -155,11 +158,14 @@
   Construyo interfaces, APIs y servicios que integran soluciones de IA con sistemas reales. También despliego aplicaciones en VPS mediante contenedores, GitHub Actions y prácticas de integración y entrega continua.
 </p>
 
-<br/>
-<hr/>
-<br/>
+  </td></tr>
+</table>
 
-<h2 align="center">🤝 Gestión y colaboración</h2>
+<br/>
+<table align="center" width="100%">
+  <tr><td align="center">
+
+<h2 align="center">Gestión y colaboración</h2>
 
 <p align="center">
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" />&nbsp;&nbsp;&nbsp;
@@ -172,11 +178,14 @@
   Organizo el trabajo con metodologías Scrum y Kanban, documento procesos y mantengo una comunicación clara con usuarios, equipos técnicos y personas no técnicas para convertir necesidades en soluciones implementables.
 </p>
 
+  </td></tr>
+</table>
+
 <br/>
 <hr/>
 <br/>
 
-<h2 align="center">🚀 Proyectos destacados</h2>
+<h2 align="center">Proyectos destacados</h2>
 
 <table align="center">
   <tr>
@@ -200,10 +209,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <a href="mailto:juaneste546@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme" /></a>
-  <a href="https://github.com/juanes088"><img src="https://img.shields.io/badge/Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios" /></a>
-</p>
