@@ -15,10 +15,12 @@
 </p>
 
 <p align="center">
-  ¿Quieres que colaboremos en algo? &nbsp;
-  <a href="mailto:juaneste546@gmail.com"><img height="28" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Escríbeme por correo" />&nbsp;Escríbeme</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/juan-esteban-sierra-agudelo-029a9b242/"><img height="28" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/linkedin-icon.svg" alt="LinkedIn" title="Conectemos en LinkedIn" />&nbsp;Conectemos</a>
+  ¿Quieres que colaboremos en algo?
+</p>
+
+<p align="center">
+  <a href="mailto:juaneste546@gmail.com"><img height="36" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" title="Correo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-esteban-sierra-agudelo-029a9b242/"><img height="36" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/linkedin-icon.svg" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
 <br/>
