@@ -1,124 +1,162 @@
 <h1 align="center">Juan Esteban Sierra</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Analista+de+Automatizaci%C3%B3n+e+Inteligencia+Artificial;Automatizaci%C3%B3n%2C+agentes+de+IA+y+soluciones+conectadas;Estudiante+activo+de+Ingenier%C3%ADa+de+Software" alt="Analista de Automatización e Inteligencia Artificial" />
-</p>
+<h3 align="center">Analista de Automatización e Inteligencia Artificial</h3>
 
 <p align="center">
-  Diseño soluciones que combinan inteligencia artificial, automatización, datos e integraciones para transformar procesos manuales en flujos más eficientes, escalables y útiles para las organizaciones.<br/>
+  Diseño soluciones que combinan inteligencia artificial, automatización, datos e integraciones para transformar procesos manuales en flujos más eficientes, escalables y útiles.<br/>
   Estudiante activo de Ingeniería de Software en Medellín, Colombia.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-0F172A?style=flat-square" alt="Automatización" />
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-0F172A?style=flat-square" alt="Agentes de IA" />
-  <img src="https://img.shields.io/badge/Datos-0F172A?style=flat-square" alt="Datos" />
-  <img src="https://img.shields.io/badge/Integraciones-0F172A?style=flat-square" alt="Integraciones" />
-  <img src="https://img.shields.io/badge/Cloud-0F172A?style=flat-square" alt="Cloud" />
+  Automatización &nbsp;·&nbsp; Agentes de IA &nbsp;·&nbsp; Datos &nbsp;·&nbsp; Integraciones &nbsp;·&nbsp; Cloud
 </p>
 
 ---
 
-## Automatización e integraciones
+<h3 align="center">Automatización e integraciones</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Copilot%20Studio-6264A7?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Copilot Studio" />
-  <img src="https://img.shields.io/badge/UiPath-FF4B00?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com" />
+<p align="center">
+  <img height="46" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/make/6D00CC" alt="Make" title="Make" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="Power Automate" title="Power Automate" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/uipath/FF4B00" alt="UiPath" title="UiPath" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/monday/FF3D57" alt="Monday.com" title="Monday.com" />
 </p>
 
-Diseño flujos de automatización que conectan CRM, correo, formularios, bases de datos y hojas de cálculo. Trabajo con APIs REST, webhooks y RPA para reducir tareas manuales y mejorar la trazabilidad de los procesos.
-
-## IA generativa y agentes
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Claude%20%2F%20Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude y Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Microsoft%20Copilot-6264A7?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Microsoft Copilot" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge" alt="Model Context Protocol" />
+<p align="center">
+  <sub>n8n · Make · Power Automate · Copilot Studio · UiPath · Monday.com</sub>
 </p>
 
-Construyo asistentes y agentes de IA que interpretan lenguaje natural, consultan bases de conocimiento, ejecutan acciones mediante herramientas y responden con criterios de seguridad y calidad. Aplico prompt engineering, function calling, RAG, evaluación de respuestas y guardrails.
-
-## Machine learning, visión y voz
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+<p align="center">
+  Diseño flujos de automatización que conectan CRM, correo, formularios, bases de datos y hojas de cálculo. Trabajo con APIs REST, webhooks y RPA para reducir tareas manuales y mejorar la trazabilidad de los procesos.
 </p>
 
-Desarrollo prototipos de IA aplicada para visión por computador, lenguaje, voz y análisis de datos. Trabajo con clasificación, regresión, clustering, procesamiento de lenguaje natural y reconocimiento o síntesis de voz.
+<h3 align="center">IA generativa y agentes</h3>
 
-## Datos y analítica
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel avanzado" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<p align="center">
+  <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
+  <img height="46" src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" title="LangGraph" />
 </p>
 
-Transformo datos en información útil para automatizaciones, modelos de IA y toma de decisiones. Trabajo con SQL, procesos ETL/ELT, limpieza de datos, data pipelines, dashboards, KPIs, visualización y Big Data.
-
-## Desarrollo e infraestructura
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VPS%20%C2%B7%20Contabo-0F172A?style=for-the-badge" alt="VPS y Contabo" />
+<p align="center">
+  <sub>ChatGPT · OpenAI API · Claude · Claude Code · Claude API · Gemini API · Microsoft Copilot · Copilot Studio · LangChain · LangGraph · MCP</sub>
 </p>
 
-Construyo interfaces, APIs y servicios que permiten integrar soluciones de IA con sistemas reales. También despliego aplicaciones en VPS mediante contenedores, GitHub Actions y prácticas de integración y entrega continua.
-
-## Gestión y colaboración
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com" />
-  <img src="https://img.shields.io/badge/Scrum-0F172A?style=for-the-badge" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-0F172A?style=for-the-badge" alt="Kanban" />
+<p align="center">
+  Construyo asistentes y agentes de IA que interpretan lenguaje natural, consultan bases de conocimiento y ejecutan acciones mediante herramientas. Aplico prompt engineering, function calling, RAG, evaluación de respuestas y guardrails.
 </p>
 
-Organizo el trabajo con metodologías Scrum y Kanban, documento procesos y mantengo una comunicación clara con usuarios, equipos técnicos y personas no técnicas para convertir necesidades en soluciones implementables.
+<h3 align="center">Machine learning, visión y voz</h3>
+
+<p align="center">
+  <img height="42" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/mediapipe/4285F4" alt="MediaPipe" title="MediaPipe" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/yolo/111F68" alt="YOLO" title="YOLO" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/numpy/4D77CF" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter Notebook" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" title="Anaconda" />
+</p>
+
+<p align="center">
+  <sub>Python · TensorFlow · PyTorch · Hugging Face · Transformers · OpenCV · MediaPipe · YOLO · Whisper · Pandas · NumPy · Jupyter Notebook · Anaconda</sub>
+</p>
+
+<p align="center">
+  Desarrollo prototipos de IA aplicada para visión por computador, lenguaje, voz y análisis de datos. Trabajo con clasificación, regresión, clustering, procesamiento de lenguaje natural y reconocimiento o síntesis de voz.
+</p>
+
+<h3 align="center">Datos y analítica</h3>
+
+<p align="center">
+  <img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" alt="Excel" title="Excel avanzado" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="Power BI" title="Power BI" />
+</p>
+
+<p align="center">
+  <sub>SQL · PostgreSQL · MongoDB · Supabase · Excel avanzado · Power BI</sub>
+</p>
+
+<p align="center">
+  Transformo datos en información útil para automatizaciones, modelos de IA y toma de decisiones. Trabajo con ETL/ELT, limpieza y transformación de datos, data pipelines, dashboards, KPIs, visualización y Big Data.
+</p>
+
+<h3 align="center">Desarrollo, despliegue e infraestructura</h3>
+
+<p align="center">
+  <img height="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" title="Flask" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/contabo.svg" alt="Contabo" title="Contabo" />
+</p>
+
+<p align="center">
+  <sub>JavaScript · TypeScript · React · Node.js · FastAPI · Flask · Django · Git/GitHub · Docker · VPS · Contabo · GitHub Actions · APIs REST · JSON · OAuth</sub>
+</p>
+
+<p align="center">
+  Construyo interfaces, APIs y servicios que integran soluciones de IA con sistemas reales. También despliego aplicaciones en VPS mediante contenedores, GitHub Actions y prácticas de integración y entrega continua.
+</p>
+
+<h3 align="center">Gestión y colaboración</h3>
+
+<p align="center">
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" />&nbsp;&nbsp;
+  <img height="44" src="https://cdn.simpleicons.org/monday/FF3D57" alt="Monday.com" title="Monday.com" />
+</p>
+
+<p align="center">
+  <sub>Azure DevOps · Monday.com · Scrum · Kanban</sub>
+</p>
+
+<p align="center">
+  Organizo el trabajo con metodologías Scrum y Kanban, documento procesos y mantengo una comunicación clara con usuarios, equipos técnicos y personas no técnicas para convertir necesidades en soluciones implementables.
+</p>
 
 ---
 
-## Proyectos destacados
+<h3 align="center">Proyectos destacados</h3>
 
-| Proyecto | Descripción |
-| --- | --- |
-| [VoxVision](https://github.com/juanes088/VoxVision) | Asistente multimodal que combina visión por computador, voz e IA generativa. |
-| [ROBERTO](https://github.com/juanes088/Agente-AI) | Asistente de voz con IA y automatización de navegación web. |
-| [Teclado Virtual](https://github.com/juanes088/Teclado-Virtual) | Interacción con el computador mediante gestos de mano y visión artificial. |
-| [Análisis inmobiliario](https://github.com/juanes088/Fundamentos-ML-Platzi) | Machine learning y analítica para evaluar la rentabilidad de vivienda en Medellín. |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/juanes088/VoxVision">VoxVision</a></h4>
+      Asistente multimodal que combina visión por computador, voz e IA generativa.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/juanes088/Agente-AI">ROBERTO</a></h4>
+      Asistente de voz con IA y automatización de navegación web.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/juanes088/Teclado-Virtual">Teclado Virtual</a></h4>
+      Interacción con el computador mediante gestos de mano y visión artificial.
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/juanes088/Fundamentos-ML-Platzi">Análisis inmobiliario</a></h4>
+      Machine learning y analítica para evaluar la rentabilidad de vivienda en Medellín.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="mailto:juaneste546@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
