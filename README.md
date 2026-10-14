@@ -43,7 +43,7 @@
   <img height="50" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/make/6D00CC" alt="Make" title="Make" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="Power Automate" title="Power Automate" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://msicons.com/icons/Copilot-studio/CopilotStudio_scalable.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/uipath/FF4B00" alt="UiPath" title="UiPath" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" title="Monday.com" />
 </p>
@@ -65,14 +65,18 @@
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/codex.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/claude-code.svg" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://msicons.com/icons/Copilot-studio/CopilotStudio_scalable.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/langgraph/FFFFFF" alt="LangGraph" title="LangGraph" />
+  <img height="50" src="https://cdn.simpleicons.org/langgraph/FFFFFF" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" alt="Model Context Protocol" title="Model Context Protocol (MCP)" />
 </p>
 
-<p align="center"><sub>ChatGPT · OpenAI API · Claude · Claude Code · Claude API · Gemini API · Microsoft Copilot · Copilot Studio · LangChain · LangGraph · MCP</sub></p>
+<p align="center"><sub>ChatGPT · OpenAI API · Codex · Claude · Claude Code · Claude API · Gemini API · Microsoft Copilot · Copilot Studio · LangChain · LangGraph · MCP</sub></p>
 
 <p align="center">
   Construyo asistentes y agentes de IA que interpretan lenguaje natural, consultan bases de conocimiento y ejecutan acciones mediante herramientas. Aplico prompt engineering, function calling, RAG, evaluación de respuestas y guardrails.
@@ -149,6 +153,8 @@
   <img height="42" src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/contabo.svg" alt="Contabo" title="Contabo" />
 </p>
 
