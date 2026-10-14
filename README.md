@@ -44,11 +44,10 @@
   <img height="50" src="https://cdn.simpleicons.org/make/6D00CC" alt="Make" title="Make" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="Power Automate" title="Power Automate" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://msicons.com/icons/Copilot-studio/CopilotStudio_scalable.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/uipath/FF4B00" alt="UiPath" title="UiPath" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" title="Monday.com" />
+  <img height="50" src="https://cdn.simpleicons.org/uipath/FF4B00" alt="UiPath" title="UiPath" />
 </p>
 
-<p align="center"><sub>n8n · Make · Power Automate · Copilot Studio · UiPath · Monday.com</sub></p>
+<p align="center"><sub>n8n · Make · Power Automate · Copilot Studio · UiPath</sub></p>
 
 <p align="center">
   Diseño flujos de automatización que conectan CRM, correo, formularios, bases de datos y hojas de cálculo. Trabajo con APIs REST, webhooks y RPA para reducir tareas manuales y mejorar la trazabilidad de los procesos.
@@ -64,16 +63,16 @@
 <h2 align="center" id="ia-generativa-y-agentes">IA generativa y agentes</h2>
 
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/codex.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./assets/openai-gray.svg" alt="OpenAI y ChatGPT" title="OpenAI y ChatGPT" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex.svg" alt="Codex" title="Codex" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/claude-code.svg" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.simpleicons.org/claudecode/6B7280" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;&nbsp;&nbsp;
   <img height="50" src="https://msicons.com/icons/Copilot-studio/CopilotStudio_scalable.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/langchain/FFFFFF" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/langgraph/FFFFFF" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" alt="Model Context Protocol" title="Model Context Protocol (MCP)" />
+  <img height="50" src="https://cdn.simpleicons.org/langchain/6B7280" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.simpleicons.org/langgraph/6B7280" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://cdn.simpleicons.org/modelcontextprotocol/6B7280" alt="Model Context Protocol" title="Model Context Protocol (MCP)" />
 </p>
 
 <p align="center"><sub>ChatGPT · OpenAI API · Codex · Claude · Claude Code · Claude API · Gemini API · Microsoft Copilot · Copilot Studio · LangChain · LangGraph · MCP</sub></p>
@@ -149,12 +148,12 @@
   <img height="42" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" title="Flask" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/flask/6B7280" alt="Flask" title="Flask" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/github/6B7280" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
   <img height="42" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/contabo.svg" alt="Contabo" title="Contabo" />
 </p>
 
