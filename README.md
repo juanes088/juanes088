@@ -21,7 +21,7 @@
   <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" alt="Power Automate" title="Power Automate" />&nbsp;&nbsp;
   <img height="46" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-copilot.svg" alt="Copilot Studio" title="Copilot Studio" />&nbsp;&nbsp;
   <img height="46" src="https://cdn.simpleicons.org/uipath/FF4B00" alt="UiPath" title="UiPath" />&nbsp;&nbsp;
-  <img height="46" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/monday-icon.svg" alt="Monday.com" title="Monday.com" />
+  <img height="46" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" title="Monday.com" />
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@
 
 <p align="center">
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" />&nbsp;&nbsp;
-  <img height="44" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/monday-icon.svg" alt="Monday.com" title="Monday.com" />
+  <img height="44" src="https://cdn.worldvectorlogo.com/logos/monday-1.svg" alt="Monday.com" title="Monday.com" />
 </p>
 
 <p align="center">
